@@ -1,8 +1,8 @@
 # CShell
 
----
 
 ## Introduction
+
 This is a shell program that can execute commands and programs on **UNIX** based machines. It is written in the **C programming language** and uses system calls to execute commands. The shell supports the following features:
 - Running commands with arguments
 - Running commands in the background
@@ -12,7 +12,6 @@ This is a shell program that can execute commands and programs on **UNIX** based
 - Keeping a history of commands
 - Exiting the shell
 
----
 
 ## How to Run
 
@@ -38,7 +37,6 @@ Run the program:
 $ ./sh
 ```
 
----
 
 ## Requirements
 
@@ -47,7 +45,6 @@ $ ./sh
 - Unix-based operating system (macOS or Linux)
 - Make
 
----
 
 ## Contributing
 
@@ -59,7 +56,6 @@ You are more than welcome to contribute to this project. To do so, follow these 
 4. Push to branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
 
----
 
 ## License
 
