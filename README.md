@@ -18,7 +18,7 @@ This is a shell program that can execute commands and programs on **UNIX** based
 
 Clone the repository:
 ```bash
-$ git clone link-to-repo
+$ git clone https://github.com/vasile-draguta/CShell
 ```
 
 Change directory to the cloned repository:
@@ -29,7 +29,7 @@ $ cd shell
 Compile the program:
 ```bash
 $ cmake .
-$ cd build     
+$ cd build
 $ make
 ```
 
@@ -60,3 +60,7 @@ You are more than welcome to contribute to this project. To do so, follow these 
 5. Open a Pull Request
 
 ---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
